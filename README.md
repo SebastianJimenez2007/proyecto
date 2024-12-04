@@ -1,5 +1,5 @@
 ## **Hello everyone ✒️**
-This is one personal project called Minidev, in this project i´am creating a website whit HTML and Css.
+This is one personal project called Minidev, in this project i´am creating a website whit HTML and CSS.
 ## **People involved in the projet ✒️**
 **🟪Me**
 ## **Progress🔨**
