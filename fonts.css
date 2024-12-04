@@ -1,0 +1,21 @@
+@font-face {
+    font-family: Montcerrat;
+    src: url(fonts/Montserrat-ExtraLight.ttf)format("truetype");
+    font-weight: 100;
+}
+@font-face{
+    font-family: Montcerrat;
+    src: url(fonts/Montserrat-Medium.ttf)format("truetype");
+    font-weight: 400;
+}
+@font-face {
+    font-family: Moncerrat;
+    src: url(fonts/Montserrat-SemiBold.ttf)format("truetype");
+    font-weight: 600; 
+
+}
+@font-face {
+    font-family: Montcerrat;
+    src: url(fonts/Montserrat-Black.ttf)format("truetype");
+    font-weight: 800;
+}
