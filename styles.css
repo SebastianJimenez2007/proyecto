@@ -17,6 +17,7 @@ body{
 
 header{
     background-color: #404938bb;
+    backdrop-filter: blur(10px);
     position: fixed;
     top: 0;
     left: 0;
@@ -75,5 +76,17 @@ header{
     background-color: aliceblue;
     color: #353d2e;
     transition: 0.05s;
+}
+.login-box{
+position: relative;
+width: 400px;
+height: 440px;
+background-color:#4049384d ;
+border: 2px solid #353d2e;
+border-radius: 10px;
+backdrop-filter: blur(10px) ;
+display: flex;
+justify-content: center;
+align-items: center;
 }
     
