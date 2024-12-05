@@ -2,4 +2,5 @@
 This is one personal project called Minidev, in this project i´am creating a website whit HTML and CSS.
 ## **Progress🔨**
 
-![MINIDEV](https://github.com/user-attachments/assets/3a47e11c-6314-4c2a-8773-3661ae25a7f3)
+![image](https://github.com/user-attachments/assets/9a8d911c-6a55-4c8d-9e77-9d2bedc400ea)
+
